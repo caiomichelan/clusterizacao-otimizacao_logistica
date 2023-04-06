@@ -2,6 +2,7 @@
 
 ## Data Science Project - Otimização de Logística
 
+![Mapa Logística](https://user-images.githubusercontent.com/104601836/230488399-15493493-cb3a-4e7c-aa59-3b57dbe052ad.jpg)
 
 # 1. Problema do Negócio
 Uma grande cervejaria deseja otimizar a logística de distribuição de seus produtos, expandindo as vendas pelas principais regiões do país garantindo a maximização dos lucros.
