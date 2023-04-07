@@ -29,7 +29,7 @@ Desta forma, a gestão da empresa, bem como seus líderes regionais, solicitou u
 
 # 5. Produto Final
 <p align='justify'>Dados tratados para importação em ferramenta de visualização de dados no Mapa.
-Neste caso, foi utilizada a ferramenta My Maps, da empresa Google e de uso gratuito, realizada a importação e configuração dos dados.</p>
+Neste projeto foi utilizada a ferramenta My Maps, da empresa Google e de uso gratuito, realizada a importação e configuração dos dados.</p>
 <p align='justify'>A solução final pode ser visualizada no seguinte link: <a href="https://www.google.com/maps/d/edit?mid=1yoJofKtzAOSRHfSfSXX2xMKli2cbKmI&usp=sharing"> Relatório de Visualização de Dados no Mapa - Otimização de Logística</a></p>
 
 # 6. Conclusão
